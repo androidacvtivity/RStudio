@@ -1,0 +1,25 @@
+Acest atelier de lucru a fost despre utilizarea R în analiza și vizualizarea datelor. 
+Este software open-source. mulți dezvoltatori din întreaga lume oferă gratuit pachete 
+de completare pentru avansa in  analiza și vizualizarea datelor. învățarea R  
+permite  statististicienilor  să efectueze cercetări sofisticate și lucrări de cercetare cu 
+constrângeri bugetare mult mai puțin limitate. A fost benefic pentru consolidarea capacității statistice. 
+Am repetat:
+– Using RStudio
+– Help files & installing packages
+– Basic R functions & logic operators
+– Creating objects & object types
+– Indexing and creating functions
+– Overview of ggplot including geoms, layers aesthetics & creating facets
+– Adding final touches for presentation ready plots
+– Combining plots using the patchwork package
+– Basic R functions for handling data objects
+– Introduction to tibbles
+– Reading & writing data from delimted files
+– Rearranging data onto “tidy” format ready for use with other R functions
+– Combining & splitting colums
+– Overview of dpyr verbs for working with data frames including join functions
+
+Procesul de invatare este un proces continuu. 
+
+
+https://kostatoda.wordpress.com/home-2/about/
